@@ -1,2 +1,2 @@
 # Blogpost
-Archivo del curso de git y GitHub
+Archivo del curso de Git y Github
